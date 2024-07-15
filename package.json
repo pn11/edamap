@@ -1,5 +1,5 @@
 {
-  "name": "science-map",
+  "name": "eda-map",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "leaflet": "^1.9.4",
+    "leaflet.locatecontrol": "^0.81.1",
     "vue": "^3.4.29"
   },
   "devDependencies": {

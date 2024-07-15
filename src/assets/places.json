@@ -1,0 +1,201 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [140.11844987260915, 36.11520133490856],
+                    [140.12129852052257, 36.07449984435724],
+                    [140.1321082867487, 36.06997379290892]
+                ]
+            },
+            "properties": {
+                "name": "NIMS 物質・材料研究機構 一般公開",
+                "links": [
+                    "https://www.nims.go.jp/openhouse"
+                ],
+                "place_type": ["openhouse"],
+                "start": "2024-5-26",
+                "end": "2024-5-26"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.48818305023258,
+                    35.70819298908314
+                ]
+            },
+            "properties": {
+                "name": "NICT 情報通信研究機構 オープンハウス",
+                "links": [
+                    "https://www2.nict.go.jp/publicity/openhouse/2024/"
+                ],
+                "notes": "",
+                "place_type": ["openhouse"],
+                "start": "2024-06-28",
+                "end": "2024-06-29"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.678173310653,
+                    35.66197743058573
+                ]
+            },
+            "properties": {
+                "name": "東大駒場リサーチキャンパス",
+                "links": [
+                    "https://komaba-oh.jp/"
+                ],
+                "notes": "",
+                "place_type": ["openhouse"],
+                "start": "2024-06-07",
+                "end": "2024-06-08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.53721213376238,
+                    35.67545479708775
+                ]
+            },
+            "properties": {
+                "name": "国立天文台三鷹キャンパス定例観望会",
+                "links": [
+                    "https://prc.nao.ac.jp/stargazing/"
+                ],
+                "notes": "月2回開催されている。",
+                "place_type": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.53711761216823,
+                    35.67444825627205
+                ]
+            },
+            "properties": {
+                "name": "国立天文台 4D2Uドームシアター公開",
+                "links": [
+                    "https://prc.nao.ac.jp/4d2u/#regular"
+                ],
+                "notes": "月3回開催されている。",
+                "place_type": []
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9385802628166,
+                    35.1176863519989
+                ]
+            },
+            "properties": {
+                "name": "国立遺伝学研究所一般公開",
+                "links": [
+                    "https://www.nig.ac.jp/koukai/koukai2024/"
+                ],
+                "notes": "",
+                "place_type": ["openhouse"],
+                "start": "2024-04-06",
+                "end": "2024-04-06"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.69638603202503,
+                    35.66519172494702
+                ]
+            },
+            "properties": {
+                "name": "NHK技研公開",
+                "links": [
+                    "https://www.nig.ac.jp/koukai/koukai2024/"
+                ],
+                "notes": "",
+                "place_type": ["openhouse"],
+                "start": "2024-05-30",
+                "end": "2024-06-02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.302083454339542,
+                    36.33210766926477
+                ]
+            },
+            "properties": {
+                "name": "ジオスペースアドベンチャー (GSA)",
+                "links": [
+                    "https://gsa-hida.jp/signup-2024/"
+                ],
+                "notes": "神岡鉱山およびスーパーカミオカンデ、KamLAND、KAGRAなどの実験の公開イベント。",
+                "place_type": ["openhouse"],
+                "start": "2024-07-13",
+                "end": "2024-07-14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29578679676075,
+                    34.41095505143495
+                ]
+            },
+            "properties": {
+                "name": "航空保安大学校 オープンキャンパス",
+                "links": [
+                    "https://www.cab.mlit.go.jp/asc/opencampus/"
+                ],
+                "notes": "",
+                "place_type": ["openhouse"],
+                "start": "2024-07-21",
+                "end": "2024-07-21"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.95054454571448,
+                    34.71172663735632
+                ]
+            },
+            "properties": {
+                "name": "NICT未来ICT研究所施設一般公開2024",
+                "links": [
+                    "https://www2.nict.go.jp/advanced_ict/ippankoukai/2024/"
+                ],
+                "notes": "",
+                "place_type": ["openhouse"],
+                "start": "2024-07-26",
+                "end": "2024-07-27"
+            }
+        }
+    ]
+}
