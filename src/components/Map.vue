@@ -6,10 +6,19 @@
 import { onMounted } from "vue";
 import "leaflet.locatecontrol";
 import * as L from "leaflet";
+import markerIconUrl from "leaflet/dist/images/marker-icon.png";
+import markerIconRetinaUrl from "leaflet/dist/images/marker-icon-2x.png";
+import markerShadowUrl from "leaflet/dist/images/marker-shadow.png";
 
 import places from "../assets/places.json"
 
 let map: L.Map;
+
+// https://cescobaz.com/2023/06/14/setup-leaflet-with-svelte-and-vite/
+L.Icon.Default.prototype.options.iconUrl = markerIconUrl;
+L.Icon.Default.prototype.options.iconRetinaUrl = markerIconRetinaUrl;
+L.Icon.Default.prototype.options.shadowUrl = markerShadowUrl;
+L.Icon.Default.imagePath = "";
 
 function getgeo() {
   // 現在地を表示するコントロールを追加
